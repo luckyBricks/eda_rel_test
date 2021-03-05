@@ -1,0 +1,6 @@
+# CumulusCI
+/cumulusci.yml        @SalesforceFoundation/release-engineering-reviewers
+/tasks/               @SalesforceFoundation/release-engineering-reviewers
+
+# SFDX
+/sfdx-project.json        @SalesforceFoundation/release-engineering-reviewers
